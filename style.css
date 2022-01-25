@@ -1,0 +1,31 @@
+#firstButton {
+    border-color: green;
+    color: green;   
+    height: 30px;
+    width: 150px;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
+#secondButton {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: white;
+    background-color: green;
+}
+
+#thirdButton {
+    height: 40px;
+    width: 150px;
+    color: white;
+    margin-top: 0px;
+    background-color: blue;
+    box-shadow: 6px 5px 5px black;
+}
+
+#firstButton, #secondButton, #thirdButton {
+    margin-left: 40px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
